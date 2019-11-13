@@ -1,5 +1,5 @@
 # portfolio
-This is a simple portfolio page that provides a little information about myself.  This project gave me the opportunity to use **float**, which is a technique that is increasingly being replaced by newer concepts, like **flex** and **grid**.  The goal was to better understand the flow of elements and the impact of disrupting flow when using the css **float** property.  This understanding gave me greater control over page layouts, particularly when dealing with images and text.
+[This](https://klangs34.github.io/) is a simple portfolio page that provides a little information about myself.  This project gave me the opportunity to use **float**, which is a technique that is increasingly being replaced by newer concepts, like **flex** and **grid**.  The goal was to better understand the flow of elements and the impact of disrupting flow when using the css **float** property.  This understanding gave me greater control over page layouts, particularly when dealing with images and text.
 
 ## Installation
 1. Fork the respository
